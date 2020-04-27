@@ -12,10 +12,10 @@
         Humidity: (int)Humiditystat%
       </p>
     <div id="button1">
-        <a href="/on">ON</a>
+        <a href="/coca120/on">ON</a>
     </div>
     <div id="button2">
-        <a href="/off">OFF</a>
+        <a href="/coca120/off">OFF</a>
     </div>
     </div>
   </body>
